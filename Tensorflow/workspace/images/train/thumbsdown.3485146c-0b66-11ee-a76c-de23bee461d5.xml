@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>thumbsdown.3485146c-0b66-11ee-a76c-de23bee461d5.jpg</filename>
+	<path>/Users/alen_james/Documents/internship/university internship/Tensorflow object detection/TFODCourse/Tensorflow/workspace/images/collectedimages/thumbsdown.3485146c-0b66-11ee-a76c-de23bee461d5.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ThumbsDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>232</ymin>
+			<xmax>838</xmax>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+</annotation>

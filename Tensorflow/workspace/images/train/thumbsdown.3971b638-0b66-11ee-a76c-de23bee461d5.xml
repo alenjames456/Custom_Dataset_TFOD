@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>thumbsdown.3971b638-0b66-11ee-a76c-de23bee461d5.jpg</filename>
+	<path>/my-project-name/thumbsdown.3971b638-0b66-11ee-a76c-de23bee461d5.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>ThumbsDown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>557</xmin>
+			<ymin>160</ymin>
+			<xmax>850</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>
